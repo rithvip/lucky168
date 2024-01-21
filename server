@@ -1,8 +1,8 @@
 {
   "Visibility": "VISIBLE",
-  "Title": "Test",
-  "Description": "Test Message",
-  "MainTextButton": "Update",
+  "Title": "សូមអាប់ដេតកម្មវិធីដើម្បីបន្តប្រើប្រាស់",
+  "Description": "សូមអរគុណ ~",
+  "MainTextButton": "អាប់ដេតឥឡូវនេះ",
   "Cancelable": "false",
   "CancelButtonText": "Cancel",
   "DownloadLink": "https://google.com",
